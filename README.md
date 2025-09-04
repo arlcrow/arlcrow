@@ -1,6 +1,6 @@
 # Hi, I'm Matvey! 👋
 
-I'm a DevOps Engineer from St. Petersburg, with experience in IT since 2020. Currently working at [Human Help](https://humanhelp.ru). I am open to considering new job opportunities.
+I'm a DevOps Engineer from St. Petersburg, with experience in IT since 2020. Currently working at [Human Help](https://humanhelp.dev). I am open to considering new job opportunities.
 
 I enjoy working with the Kubernetes ecosystem, automating processes, and constantly experimenting with new technologies.
 
